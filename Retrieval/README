@@ -1,0 +1,5 @@
+1. Your system needs to run Python3 in order to execute the code.
+2. To run the code, change directory to Assignment2-Retrieval/src.
+3. Run using $python Indexer.py <pathToCollectionFile> <0/1>
+	The 1 or 0 value specifies whether compression is performed or not respectively.
+4. All generated indices, lookup and mappings can be found in the data directory.
